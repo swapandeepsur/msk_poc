@@ -1,0 +1,6 @@
+metadata:
+  name: bus
+  import: gitscm.cisco.com/mcmp/bus
+  version: 0.4.0
+  pretag: ""
+  versioned: []
